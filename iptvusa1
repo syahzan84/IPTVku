@@ -1,68 +1,137 @@
+#EXTM3U
+#EXTINF :-1,A
 https://ustvgo.tv/abc-live-streaming-free/
+#EXTINF :-1,A
 https://ustvgo.tv/animal-planet-live/
+#EXTINF :-1,B
 https://ustvgo.tv/bbc-america-live/
+#EXTINF :-1,B
 https://ustvgo.tv/boomerang/
+#EXTINF :-1,B
 https://ustvgo.tv/bravo-channel-live-free/
+#EXTINF :-1,C
 https://ustvgo.tv/cbs-live-streaming-free/
+#EXTINF :-1,C
 https://ustvgo.tv/cinemax/
+#EXTINF :-1,C
 https://ustvgo.tv/cmt/
+#EXTINF :-1,C
 https://ustvgo.tv/cartoon-network/
+#EXTINF :-1,C
 https://ustvgo.tv/cnbc/
+#EXTINF :-1,C
 https://ustvgo.tv/cnn-live-streaming-free/
+#EXTINF :-1,C
 https://ustvgo.tv/comedy-central-live-free/
+#EXTINF :-1,C
 https://ustvgo.tv/the-cw-live-streaming-free/
+#EXTINF :-1,D
 https://ustvgo.tv/destination-america/
+#EXTINF :-1,D
 https://ustvgo.tv/disney-channel-live-streaming-free/
+#EXTINF :-1,D
 https://ustvgo.tv/disneyjr/
+#EXTINF :-1,D
 https://ustvgo.tv/disneyxd/
+#EXTINF :-1,D
 https://ustvgo.tv/diy/
+#EXTINF :-1,E
 https://ustvgo.tv/e/
+#EXTINF :-1,E
 https://ustvgo.tv/espn2-live/
+#EXTINF :-1,E
 https://ustvgo.tv/food-network-live-free/
+#EXTINF :-1,F
 https://ustvgo.tv/fox-hd-live-streaming/
+#EXTINF :-1,F
 https://ustvgo.tv/fox-business-live-streaming-free/
+#EXTINF :-1,F
 https://ustvgo.tv/fox-news-live-streaming-free/
+#EXTINF :-1,F
 https://ustvgo.tv/freeform-channel-live-free/
+#EXTINF :-1,F
 https://ustvgo.tv/fox-sports-2/
+#EXTINF :-1,F
 https://ustvgo.tv/fx-channel-live/
+#EXTINF :-1,F
 https://ustvgo.tv/fxm/
+#EXTINF :-1,F
 https://ustvgo.tv/fxx/
+#EXTINF :-1,G
 https://ustvgo.tv/gsn/
+#EXTINF :-1,H
 https://ustvgo.tv/hallmark-channel-live-streaming-free/
+#EXTINF :-1,H
 https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
+#EXTINF :-1,H
 https://ustvgo.tv/hgtv-live-streaming-free/
+#EXTINF :-1,H
 https://ustvgo.tv/hln/
+#EXTINF :-1,I
 https://ustvgo.tv/investigation-discovery-live-streaming-free/
+#EXTINF :-1,L
 https://ustvgo.tv/lifetime-channel-live/
+#EXTINF :-1,L
 https://ustvgo.tv/lifetime-movies/
+#EXTINF :-1,M
 https://ustvgo.tv/mlb-network/
+#EXTINF :-1,M
 https://ustvgo.tv/motortrend/
+#EXTINF :-1,M
 https://ustvgo.tv/msnbc/
+#EXTINF :-1,M
 https://ustvgo.tv/mtv/
+#EXTINF :-1,N
 https://ustvgo.tv/nat-geo-wild-live/
+#EXTINF :-1,N
 https://ustvgo.tv/nbc/
+#EXTINF :-1,N
 https://ustvgo.tv/nbcsn/
+#EXTINF :-1,N
 https://ustvgo.tv/nfl-network-live-free/
+#EXTINF :-1,F
 https://ustvgo.tv/nickelodeon-live-streaming-free/
+#EXTINF :-1,N
 https://ustvgo.tv/nicktoons/
+#EXTINF :-1,O
 https://ustvgo.tv/one-america-news-network/
+#EXTINF :-1,O
 https://ustvgo.tv/own/
+#EXTINF :-1,O
 https://ustvgo.tv/oxygen/
+#EXTINF :-1,P
 https://ustvgo.tv/pbs-live/
+#EXTINF :-1,P
 https://ustvgo.tv/pop/
+#EXTINF :-1,S
 https://ustvgo.tv/science/
+#EXTINF :-1,S
 https://ustvgo.tv/starz-channel-live/
+#EXTINF :-1,S
 https://ustvgo.tv/sundance-tv/
+#EXTINF :-1,S
 https://ustvgo.tv/syfy-channel-live/
+#EXTINF :-1,T
 https://ustvgo.tv/tbs-channel-live-free/
+#EXTINF :-1,T
 https://ustvgo.tv/tcm/
+#EXTINF :-1,T
 https://ustvgo.tv/telemundo/
-https://ustvgo.tv/tlc-live-free/
+#EXTINF :-1,T
+https://ustvgo.tv/tlc-live-free/#EXTINF :-1,
+#EXTINF :-1,T
 https://ustvgo.tv/travel-channel-live-free/
+#EXTINF :-1,T
 https://ustvgo.tv/trutv/
+#EXTINF :-1,T
 https://ustvgo.tv/tv-land-live-free/
+#EXTINF :-1,T
 https://ustvgo.tv/the-weather-channel-live-streaming-free/
+#EXTINF :-1,U
 https://ustvgo.tv/univision/
+#EXTINF :-1,W
 https://ustvgo.tv/we-tv/
+#EXTINF :-1,W
 https://ustvgo.tv/wwe-network/
+#EXTINF :-1,Y
 https://ustvgo.tv/yes-network/
